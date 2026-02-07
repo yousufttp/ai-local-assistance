@@ -4,6 +4,8 @@
 This project is a **fully local AI chatbot** designed to assist with **IT support and troubleshooting** by answering questions based on internal documents (SOPs, KBs, runbooks).
 
 The chatbot runs **entirely on a local machine** using open-source tools — no cloud APIs, no data leaving the system — making it suitable for **enterprise, privacy-sensitive environments**.
+<img width="950" height="472" alt="image" src="https://github.com/user-attachments/assets/e906962c-0fc6-405d-8eb3-543ba939ac1a" />
+
 
 ---
 
